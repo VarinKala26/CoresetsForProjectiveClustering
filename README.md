@@ -1,1 +1,1 @@
-# FacilityLocationApproximationAlgorithm
+# Coresets for Projective Clustering
